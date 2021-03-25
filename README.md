@@ -8,6 +8,7 @@
 	3. Integration Spring with alternative frameworks.
 	4. Как написать собственный BeanDefinitionReader для построения контекста из сторонних либ и т д.
 	5. Реализация паттернов Strategy и Command вместо юзания конструкции switch-case. Или как работает @Autowired над коллекицией Map HashMap.
+	6. Как подлить бин на лету в Spring (реализация паттерна Registry)
 	
 For testing use query:
 http://localhost:8080/corona/treat
